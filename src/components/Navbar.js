@@ -1,11 +1,3 @@
-import {
-	BrowserRouter as Router,
-	Switch,
-	Route,
-	Link,
-	useRouteMatch,
-	useParams
-} from "react-router-dom";
 import { useEffect, useState } from 'react';
 
 function Navbar(props) {

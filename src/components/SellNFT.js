@@ -10,10 +10,8 @@ export default function SellNFT () {
     const openaiApiKey = process.env.REACT_APP_OPENAI_API_KEY;
 
     const [formParams, updateFormParams] = useState({ name: '', description: '', price: ''});
-    const [image_b64, setImageB64] = useState("");
     const [image_url, setImageURL] = useState("");
     const [prompt_text, setPrompt] = useState("");
-    const [fileURL, setFileURL] = useState(null);
     const [metaURI, setMetaURI] = useState("");
     const [message, updateMessage] = useState('');
 

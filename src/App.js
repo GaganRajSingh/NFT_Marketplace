@@ -4,8 +4,7 @@ import Marketplace from './components/Marketplace';
 import Profile from './components/Profile';
 import SellNFT from './components/SellNFT';
 import NFTPage from './components/NFTpage';
-import ReactDOM from "react-dom/client";
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import {
   BrowserRouter,
   Routes,
