@@ -18,10 +18,10 @@ mongoose.connect(url, {
 	useUnifiedTopology: true,
 })
 .then(() => {
-	console.log("Connected to db");
+	console.log("Connected");
 })
 .catch((err) => {
-	console.log("Error connecting to db:");
+	console.log("Error connecting:");
 	console.log(err)
 });
 
