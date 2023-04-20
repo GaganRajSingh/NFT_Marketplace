@@ -4,7 +4,8 @@ This project involved building the front-end and developing the smart contract f
 # 🎥 Demo
 <!-- Check out this demo video to see the project in action!
 <iframe width="700" height="450" src="https://www.youtube.com/embed/TucyCcSOrck" title="NFT Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-![Demo video](https://www.youtube.com/watch?v=TucyCcSOrck)
+<!-- ![Demo video](https://www.youtube.com/watch?v=TucyCcSOrck) -->
+[![Demo video](https://img.youtube.com/vi/TucyCcSOrck/default.jpg)](https://www.youtube.com/watch?v=TucyCcSOrck)
 
 # 📋 Prerequisites
 1. NodeJS
@@ -27,4 +28,4 @@ npm start
 ```
 
 4. Navigate to localhost:3000 🌐 to open the dApp.
-5. 🤝 Connect your metamask wallet and interact with the dApp.
+5. Connect your metamask wallet and interact with the dApp 🤝.
