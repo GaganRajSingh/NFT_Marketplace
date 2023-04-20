@@ -2,8 +2,9 @@
 This project involved building the front-end and developing the smart contract for an NFT marketplace. It allows users to generate custom NFT images, mint, buy, sell and view NFTs on Goerli blockchain.
 
 # 🎥 Demo
-Check out this demo video to see the project in action!
-<iframe width="700" height="450" src="https://www.youtube.com/embed/TucyCcSOrck" title="NFT Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- Check out this demo video to see the project in action!
+<iframe width="700" height="450" src="https://www.youtube.com/embed/TucyCcSOrck" title="NFT Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+![Demo video](https://www.youtube.com/watch?v=TucyCcSOrck)
 
 # 📋 Prerequisites
 1. NodeJS
